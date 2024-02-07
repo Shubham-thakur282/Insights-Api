@@ -30,14 +30,14 @@ The server will start on the specified port, and you can access the default rout
 
 ## API Routes
 
- **GET /:**
+ **GET /:** 
     A simple test route responding with a JSON object.
 
-**All routes under /api/:**
+**All routes under /api/:** 
     Define your API routes in the routes.js file, accessible under the /api prefix.
 
 ## Data
-    The API is designed to handle diverse datasets, covering sectors such as Energy, Retail, and more. Each dataset entry includes fields like sector, topic, insight, URL, region, country, and others.
+    The API is designed to handle diverse datasets, covering sectors such as Energy, Retail, and more. Each   dataset  entry includes fields like sector, topic, insight, URL, region, country, and others.
 
 
 ## Examples
